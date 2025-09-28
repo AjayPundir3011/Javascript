@@ -14,3 +14,13 @@ let valueInNumber = Number(score);
 
 console.log(typeof(valueInNumber));
 console.log(valueInNumber);
+
+let n ="";
+
+let valueInBoolean = Boolean(n);
+
+console.log(typeof(valueInBoolean));
+console.log(valueInBoolean);
+
+const name = "Ajay";
+name = "Ashutosh";
