@@ -43,3 +43,6 @@ const user = {
 }
 
 handleAnyObject(user);
+
+
+const array = [100,200,300,400];
